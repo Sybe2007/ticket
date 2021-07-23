@@ -1,0 +1,12 @@
+{
+  "prefix": "t!",
+  "main_token": "ODY3MTk0MjEyMzYxNTY4Mjg3.YPdjiw._RVDkusIpcr3QKJa2Tt7V8QSpME",
+  "developers": ["sheesh"],
+  "bot_name":"Ghost Tickets",
+  "emoji":"👻",
+  "color":"BLUE",
+  "ticket_limit":"3978379",
+  "support_role_id":"867422091736645722",
+  "category_id":"868264947979780106",
+  "log_channel_id":"868193536451969034"
+}
